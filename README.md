@@ -5,6 +5,10 @@
 ### Reserach Assignment - Federal Research and Development Spending by Agency
 [R&D Spending Research Assignment](https://rpubs.com/mark_bozinovic/684579) 
 
+The Assignment looks at the 3 files supplied for R&D Spending from the American Association for the Advancement of Science Historical Trend.
+Using various Analytics techniques, we break the data (Climate Spend, Energy Spend and R&D Spend) down to look and establish for patterns
+in Government spending from previous years to create predictive models for future spending.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
