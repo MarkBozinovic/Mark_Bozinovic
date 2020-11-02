@@ -1,4 +1,6 @@
-# Welcome to the web page for the Professional and Academic works for Mark Bozinovic ![Mark Bozinovic](\Career\MarkBozinovicPicture.jpg)
+# Welcome to the web page for the Professional and Academic works for Mark Bozinovic                    
+
+![Mark Bozinovic](MarkBozinovicPicture.jpg)
 
 ## Victoria University ERP Systems Unit BCO6007 Business Analytics - R Studio Markdown Files Programmed in R for Tidy Tuesday and Git Hub
 
